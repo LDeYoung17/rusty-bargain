@@ -32,3 +32,6 @@ This project evaluates gradient boosting machine learning models to make a recom
 
 
 <h2>Sample Code</h2>
+
+<img width="943" alt="catboost" src="https://github.com/LDeYoung17/rusty-bargain/assets/70500225/1bbfb9aa-d2a7-4d9c-b25e-b5d70119529e">
+
