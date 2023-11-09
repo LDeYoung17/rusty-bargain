@@ -1,4 +1,4 @@
-# rusty-bargain
+# Gradient Boosting Models
 
 <h2>Summary</h2>
 
@@ -29,6 +29,10 @@ This project evaluates gradient boosting machine learning models to make a recom
 5. Open Jupyter Notebook using the platform of your choice
 6. Set up a Jupyter kernel to use Python 3.11.5
 7. Select "Run All"
+
+<h2>Plans for Updates</h2>
+
+Fix the code for XGBoost using previously successful projects to test an additional model and ensure optimization for this project.
 
 
 <h2>Sample Code</h2>
