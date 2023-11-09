@@ -32,7 +32,7 @@ This project evaluates gradient boosting machine learning models to make a recom
 
 <h2>Plans for Updates</h2>
 
-Fix the code for XGBoost using previously successful projects to test an additional model and ensure optimization for this project.
+Fix the code for XGBoost using previously successful projects as examples to test an additional model and ensure optimization for this project.
 
 
 <h2>Sample Code</h2>
