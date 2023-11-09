@@ -35,3 +35,10 @@ This project evaluates gradient boosting machine learning models to make a recom
 
 <img width="943" alt="catboost" src="https://github.com/LDeYoung17/rusty-bargain/assets/70500225/1bbfb9aa-d2a7-4d9c-b25e-b5d70119529e">
 
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
+
